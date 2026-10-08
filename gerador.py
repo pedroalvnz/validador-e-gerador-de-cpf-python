@@ -49,4 +49,4 @@ novo_cpf = ''
 for numero in cpf_9:
     novo_cpf += str(numero)
 
-print(f'o novo CPF é {novo_cpf}')
+print(f'O CPF gerado foi {novo_cpf}')
