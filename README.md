@@ -6,8 +6,8 @@ Dois scripts simples em Python para trabalhar com CPF: um **valida** números de
 
 | Arquivo | O que faz |
 |---|---|
-| `validador_cpf.py` | Verifica se um CPF é válido |
-| `gerador_cpf.py` | Gera CPFs matematicamente válidos |
+| `validador.py` | Verifica se um CPF é válido |
+| `gerador.py` | Gera CPFs matematicamente válidos |
 
 ## Validador de CPF
 
@@ -30,8 +30,8 @@ Dois scripts simples em Python para trabalhar com CPF: um **valida** números de
 3. Execute no terminal o script que quiser:
 
 ```
-python validador_cpf.py
-python gerador_cpf.py
+python validador.py
+python gerador.py
 ```
 
 ## Como funciona o cálculo dos dígitos verificadores
